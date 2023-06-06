@@ -1,0 +1,23 @@
+:root{
+    --search-bg: #f1f3f4;
+    --btn-color: #5f6368;
+    --btn-highlight: #1a73e8;
+    --whitist: #fff;
+    --g: #5994f5;
+    --o-e: #ea4335;
+    --s-o: #fccd44;
+    --l: #34a853;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
